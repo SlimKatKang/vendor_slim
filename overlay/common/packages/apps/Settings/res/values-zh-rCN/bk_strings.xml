@@ -172,12 +172,12 @@
 
     <!-- Sound settings -->
     <string name="sound_title">声音</string>
-    <string name="advanced_sound_title">高级设置</string>
+    <string name="advanced_sound_title">高级选项</string>
     <string name="notifications_category_title">通知</string>
     <string name="volbtn_music_controls_title">音量键音乐控制</string>
     <string name="volbtn_music_controls_summary">锁屏时长按音量键控制音乐曲目</string>
     <string name="volume_adjust_sounds_enable_title">音量键调节声音</string>
-    <string name="volume_adjust_sounds_enable_summary">音量键调节时播放声响</string>
+    <string name="volume_adjust_sounds_enable_summary">音量键调节时播放声音</string>
     <string name="link_volume_ringtones">链接铃声 &amp; 通知音量</string>
     <string name="volume_ring_only_description">铃声</string>
 
@@ -303,7 +303,7 @@
 
     <string name="increasing_ring_title">铃声渐强</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
-    <string name="checkbox_increasing_ring">引导</string>
+    <string name="checkbox_increasing_ring">启用</string>
     <!-- Sound settings screen, the title of the volume bar to adjust the minimum increasing ring volume -->
     <string name="increasing_ring_min_volume_title">开始音量</string>
     <string name="increasing_ring_volume_notice">注意：\n如果开始音量大于设置音量，该项将无作用。</string>
@@ -333,7 +333,7 @@
     <string name="shortcut_action_expanded_desktop">全屏模式</string>
     <string name="shortcut_action_power_off">关机</string>
     <string name="shortcut_action_reboot">重启</string>
-    <string name="shortcut_action_sound">音量</string>
+    <string name="shortcut_action_sound">声音</string>
     <string name="shortcut_action_app">自定义程序</string>
     <string name="shortcut_action_home">主页</string>
     <string name="shortcut_action_back">返回</string>
@@ -507,7 +507,7 @@
     <string name="navigation_bar">导航栏</string>
     <string name="navbar_button_cat">导航栏按键</string>
     <string name="title_pref_menu_location">菜单键位置</string>
-    <string name="summary_pref_menu_location">设置菜单键显示位置？</string>
+    <string name="summary_pref_menu_location">设置菜单键显示位置</string>
     <string name="title_pref_menu_display">菜单键可见性</string>
     <string name="summary_pref_menu_display">设置菜单键显示方式</string>
     <string name="navbar_enable_bar">使用导航栏</string>
@@ -534,7 +534,7 @@
     <string name="navigation_bar_glow_tint_title">发光色彩</string>
 
     <!-- Advanced settings -->
-    <string name="header_category_rom_system_settings">高级选项</string>
+    <string name="advanced_options_settings_title">高级选项</string>
 
     <!-- Advanced, Device specific (DeviceParts) settings -->
     <string name="device_settings_title">设备</string>
