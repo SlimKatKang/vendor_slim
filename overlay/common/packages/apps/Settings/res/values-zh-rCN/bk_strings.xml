@@ -1,4 +1,4 @@
-<？xml version="1.0" encoding="utf-8"？>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 /* //device/apps/common/assets/res/any/strings.xml
 **
@@ -741,8 +741,8 @@
     <string name="title_tile_settings">设置</string>
     <string name="title_tile_sound">声音</string>
     <string name="title_tile_sync">同步</string>
-    <string name="title_tile_wifiap">Wi-Fi热点</string>
-    <string name="title_tile_wifi">Wi-Fi</string>
+    <string name="title_tile_wifiap">WLAN 热点</string>
+    <string name="title_tile_wifi">WLAN</string>
     <string name="title_tile_wimax">WiMAX</string>
     <string name="title_tile_user">用户切换</string>
     <string name="title_tile_networkmode">网络模式</string>
